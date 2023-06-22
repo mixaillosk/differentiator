@@ -1,0 +1,3 @@
+This programm differentiates functions and create a PDF-file with solution. You need Linux to use this programm.
+In terminal type "make" to compile and run the code.
+Open file logs/func.txt to change a function.
